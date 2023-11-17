@@ -1,0 +1,39 @@
+
+    #calciii{
+    position: relative;
+    top:20px;
+    height:370px;
+    left: 400px;
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 50px;
+    padding: 20px 20px 50px 20px;
+    background-color: rgb(204, 175, 212)
+    }
+    .frm{
+        position: relative;
+        height:90%;
+    }
+    input[type=button]{
+    background: lightblue;
+    width: 20%;
+    height:13%;
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 50px;
+    margin-left: 13px;
+    margin-top: 10px;
+    }
+    input[type=button]:hover{
+    background-color: rgb(101, 173, 197);
+    color: white;
+    }
+    input[type=text]{
+    display: block;
+    width: 90%;
+    height:16%;
+    margin:12px auto;
+    font-size: 20px;
+    padding: 10px;
+    box-shadow: 4px -4px 10px  black inset;
+    }
